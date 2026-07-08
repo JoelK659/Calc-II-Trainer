@@ -10,7 +10,6 @@ An educational game designed to help students strengthen their Calculus II integ
 - Built-in tutorial explaining each integration technique and common clues
 - Lightning Round mode for timed challenges
 - Endless Mode for continuous practice
-- Score tracking to monitor improvement
 - Focus on developing pattern recognition and strategy selection
 
 ---
